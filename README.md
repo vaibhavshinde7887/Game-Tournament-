@@ -9,7 +9,7 @@ Create, store, and retrieve tournament information efficiently.
 Filtering
 Fetch tournaments based on their status (e.g., Upcoming, Ended).
 Search Functionality
-Search tournaments by title or game name for quick access.
+Search tournaments by title or game name for quick access.f
 Database Initialization
 Automatically populates the database with sample tournament data if it is empty.
 
